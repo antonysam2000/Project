@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/anton/Documents/daqStack/prac/c++_basics/ex6-project/Project/out/build/x64-Clang-Debug/Project/CMakeFiles/project-cmake.dir/embed.manifest"

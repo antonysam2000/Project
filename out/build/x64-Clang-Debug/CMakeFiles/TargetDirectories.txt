@@ -1,0 +1,5 @@
+C:/Users/anton/Documents/daqStack/prac/c++_basics/ex6-project/Project/out/build/x64-Clang-Debug/CMakeFiles/edit_cache.dir
+C:/Users/anton/Documents/daqStack/prac/c++_basics/ex6-project/Project/out/build/x64-Clang-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/anton/Documents/daqStack/prac/c++_basics/ex6-project/Project/out/build/x64-Clang-Debug/Project/CMakeFiles/project-cmake.dir
+C:/Users/anton/Documents/daqStack/prac/c++_basics/ex6-project/Project/out/build/x64-Clang-Debug/Project/CMakeFiles/edit_cache.dir
+C:/Users/anton/Documents/daqStack/prac/c++_basics/ex6-project/Project/out/build/x64-Clang-Debug/Project/CMakeFiles/rebuild_cache.dir

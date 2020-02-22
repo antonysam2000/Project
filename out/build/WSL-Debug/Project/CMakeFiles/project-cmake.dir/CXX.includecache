@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/anton/Documents/daqStack/prac/c++_basics/ex6-project/Project/Project/Project.cpp
+Project.h
+/mnt/c/Users/anton/Documents/daqStack/prac/c++_basics/ex6-project/Project/Project/Project.h
+
+/mnt/c/Users/anton/Documents/daqStack/prac/c++_basics/ex6-project/Project/Project/Project.h
+iostream
+-
+

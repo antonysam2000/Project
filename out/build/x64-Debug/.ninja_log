@@ -1,0 +1,20 @@
+# ninja log v5
+1	989	603883859	Project/CMakeFiles/project-cmake.dir/Project.cpp.obj	b442c6acc0343e90
+989	1580	603883859	Project/project-cmake.exe	420850805904815f
+1	774	603963972	Project/CMakeFiles/project-cmake.dir/Project.cpp.obj	b442c6acc0343e90
+774	1041	603963972	Project/project-cmake.exe	420850805904815f
+1	490	603964114	Project/CMakeFiles/project-cmake.dir/Project.cpp.obj	b442c6acc0343e90
+490	695	603964114	Project/project-cmake.exe	420850805904815f
+1	1478	604050185	Project/CMakeFiles/project-cmake.dir/Project.cpp.obj	b442c6acc0343e90
+1	425	604050303	Project/CMakeFiles/project-cmake.dir/Project.cpp.obj	b442c6acc0343e90
+425	648	604050303	Project/project-cmake.exe	420850805904815f
+0	547	604050367	Project/CMakeFiles/project-cmake.dir/Project.cpp.obj	b442c6acc0343e90
+547	766	604050367	Project/project-cmake.exe	420850805904815f
+1	541	604050600	Project/CMakeFiles/project-cmake.dir/Project.cpp.obj	b442c6acc0343e90
+541	889	604050600	Project/project-cmake.exe	420850805904815f
+1	524	604050626	Project/CMakeFiles/project-cmake.dir/Project.cpp.obj	b442c6acc0343e90
+525	746	604050626	Project/project-cmake.exe	420850805904815f
+0	575	604050654	Project/CMakeFiles/project-cmake.dir/Project.cpp.obj	b442c6acc0343e90
+575	800	604050654	Project/project-cmake.exe	420850805904815f
+1	434	604050764	Project/CMakeFiles/project-cmake.dir/Project.cpp.obj	b442c6acc0343e90
+434	637	604050765	Project/project-cmake.exe	420850805904815f
